@@ -1,4 +1,5 @@
 **動画カットツール用のプレイ情報の記録には[DataRecorder](https://github.com/rynan4818/DataRecorder)を使用して下さい**
+
 本ツールの開発は終了します
 ---
 # MovieCutRecord
