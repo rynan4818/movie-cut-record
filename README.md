@@ -1,7 +1,8 @@
+**動画カットツール用のプレイ情報の記録には[DataRecorder](https://github.com/rynan4818/DataRecorder)を使用して下さい**
+本ツールの開発は終了します
+---
 # MovieCutRecord
 このツールは、[Beat Saber HTTP Status](https://github.com/opl-/beatsaber-http-status) のWebSocket送信機能を利用し、Beat Saberのプレイ情報をデータベースに記録します。拙作のBeat Saber プレイ動画カットツール[BS Movie Cut](https://github.com/rynan4818/bs-movie-cut)で使用するために製作しました。
-
-**注意：現在作者はプレイ情報の記録に[DataRecorder](https://github.com/rynan4818/DataRecorder)を使用しています。機能が劣るため、特に理由がなければ本ツールは使用しないで下さい。**
 
 # インストール方法
 
